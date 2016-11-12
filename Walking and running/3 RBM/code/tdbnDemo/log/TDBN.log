@@ -1,0 +1,480 @@
+Sat Nov 12 11:32:25 WIB 2016 : FINE : TDBN -:- <init> -:- files.size():10
+Sat Nov 12 11:32:28 WIB 2016 : FINE : TDBN -:- <init> -:- nBodyParts: 3
+Sat Nov 12 11:32:28 WIB 2016 : FINE : TDBN -:- <init> -:- Initialize RBMs...!
+Sat Nov 12 11:32:28 WIB 2016 : FINE : TDBN -:- <init> -:- Initialize RBM...!
+Sat Nov 12 11:32:28 WIB 2016 : FINE : TDBN -:- <init> -:- Initialize CRBM...!
+Sat Nov 12 11:32:30 WIB 2016 : FINE : TDBN -:- train -:- epoch: 0, energy: -11.278469089472107
+Sat Nov 12 11:32:31 WIB 2016 : FINE : TDBN -:- train -:- epoch: 2, energy: -3942.1060352976233
+Sat Nov 12 11:32:33 WIB 2016 : FINE : TDBN -:- train -:- epoch: 4, energy: -5334.516671789275
+Sat Nov 12 11:32:33 WIB 2016 : FINE : TDBN -:- train -:- epoch: 6, energy: -6707.648424852149
+Sat Nov 12 11:32:34 WIB 2016 : FINE : TDBN -:- train -:- epoch: 8, energy: -8448.393465946301
+Sat Nov 12 11:32:35 WIB 2016 : FINE : TDBN -:- train -:- epoch: 10, energy: -8216.800749507116
+Sat Nov 12 11:32:36 WIB 2016 : FINE : TDBN -:- train -:- epoch: 12, energy: -8580.894785704706
+Sat Nov 12 11:32:36 WIB 2016 : FINE : TDBN -:- train -:- epoch: 14, energy: -8441.289136893958
+Sat Nov 12 11:32:37 WIB 2016 : FINE : TDBN -:- train -:- epoch: 16, energy: -9020.693267513769
+Sat Nov 12 11:32:38 WIB 2016 : FINE : TDBN -:- train -:- epoch: 18, energy: -8426.139368449807
+Sat Nov 12 11:32:39 WIB 2016 : FINE : TDBN -:- train -:- epoch: 20, energy: -8923.777127911371
+Sat Nov 12 11:32:39 WIB 2016 : FINE : TDBN -:- train -:- epoch: 22, energy: -8625.937588591307
+Sat Nov 12 11:32:40 WIB 2016 : FINE : TDBN -:- train -:- epoch: 24, energy: -8873.941852766082
+Sat Nov 12 11:32:41 WIB 2016 : FINE : TDBN -:- train -:- epoch: 26, energy: -8665.925804910728
+Sat Nov 12 11:32:41 WIB 2016 : FINE : TDBN -:- train -:- epoch: 28, energy: -8704.993002201629
+Sat Nov 12 11:32:42 WIB 2016 : FINE : TDBN -:- train -:- epoch: 30, energy: -8767.037338303542
+Sat Nov 12 11:32:43 WIB 2016 : FINE : TDBN -:- train -:- epoch: 32, energy: -8434.301358920735
+Sat Nov 12 11:32:43 WIB 2016 : FINE : TDBN -:- train -:- epoch: 34, energy: -9039.53984394405
+Sat Nov 12 11:32:44 WIB 2016 : FINE : TDBN -:- train -:- epoch: 36, energy: -8707.049748781277
+Sat Nov 12 11:32:45 WIB 2016 : FINE : TDBN -:- train -:- epoch: 38, energy: -9244.985708773867
+Sat Nov 12 11:32:46 WIB 2016 : FINE : TDBN -:- train -:- epoch: 40, energy: -8257.585733946094
+Sat Nov 12 11:32:46 WIB 2016 : FINE : TDBN -:- train -:- epoch: 42, energy: -8281.895372330644
+Sat Nov 12 11:32:47 WIB 2016 : FINE : TDBN -:- train -:- epoch: 44, energy: -9130.225644996883
+Sat Nov 12 11:32:48 WIB 2016 : FINE : TDBN -:- train -:- epoch: 46, energy: -8353.457035608957
+Sat Nov 12 11:32:48 WIB 2016 : FINE : TDBN -:- train -:- epoch: 48, energy: -8776.925392573712
+Sat Nov 12 11:32:49 WIB 2016 : FINE : TDBN -:- train -:- epoch: 50, energy: -8385.41354316687
+Sat Nov 12 11:32:50 WIB 2016 : FINE : TDBN -:- train -:- epoch: 52, energy: -8603.627721206069
+Sat Nov 12 11:32:51 WIB 2016 : FINE : TDBN -:- train -:- epoch: 54, energy: -8914.795824233675
+Sat Nov 12 11:32:51 WIB 2016 : FINE : TDBN -:- train -:- epoch: 56, energy: -8798.775104749422
+Sat Nov 12 11:32:52 WIB 2016 : FINE : TDBN -:- train -:- epoch: 58, energy: -8345.98220636039
+Sat Nov 12 11:32:53 WIB 2016 : FINE : TDBN -:- train -:- epoch: 60, energy: -8292.769873028237
+Sat Nov 12 11:32:53 WIB 2016 : FINE : TDBN -:- train -:- epoch: 62, energy: -8900.16986321252
+Sat Nov 12 11:32:54 WIB 2016 : FINE : TDBN -:- train -:- epoch: 64, energy: -9410.699084360998
+Sat Nov 12 11:32:55 WIB 2016 : FINE : TDBN -:- train -:- epoch: 66, energy: -8713.11897076343
+Sat Nov 12 11:32:56 WIB 2016 : FINE : TDBN -:- train -:- epoch: 68, energy: -8778.63536492373
+Sat Nov 12 11:32:56 WIB 2016 : FINE : TDBN -:- train -:- epoch: 70, energy: -8602.282970370643
+Sat Nov 12 11:32:57 WIB 2016 : FINE : TDBN -:- train -:- epoch: 72, energy: -9414.73760990146
+Sat Nov 12 11:32:58 WIB 2016 : FINE : TDBN -:- train -:- epoch: 74, energy: -8792.23605625478
+Sat Nov 12 11:32:58 WIB 2016 : FINE : TDBN -:- train -:- epoch: 76, energy: -8964.445274527257
+Sat Nov 12 11:32:59 WIB 2016 : FINE : TDBN -:- train -:- epoch: 78, energy: -8750.229701966313
+Sat Nov 12 11:33:00 WIB 2016 : FINE : TDBN -:- train -:- epoch: 80, energy: -8661.157861681077
+Sat Nov 12 11:33:01 WIB 2016 : FINE : TDBN -:- train -:- epoch: 82, energy: -9287.350884060093
+Sat Nov 12 11:33:01 WIB 2016 : FINE : TDBN -:- train -:- epoch: 84, energy: -8877.619723378366
+Sat Nov 12 11:33:02 WIB 2016 : FINE : TDBN -:- train -:- epoch: 86, energy: -9164.600176641925
+Sat Nov 12 11:33:03 WIB 2016 : FINE : TDBN -:- train -:- epoch: 88, energy: -8325.232571167187
+Sat Nov 12 11:33:04 WIB 2016 : FINE : TDBN -:- train -:- epoch: 90, energy: -8916.872123262317
+Sat Nov 12 11:33:04 WIB 2016 : FINE : TDBN -:- train -:- epoch: 92, energy: -8654.023974991722
+Sat Nov 12 11:33:05 WIB 2016 : FINE : TDBN -:- train -:- epoch: 94, energy: -8898.923365554625
+Sat Nov 12 11:33:06 WIB 2016 : FINE : TDBN -:- train -:- epoch: 96, energy: -8854.506995877904
+Sat Nov 12 11:33:07 WIB 2016 : FINE : TDBN -:- train -:- epoch: 98, energy: -8846.328511813006
+Sat Nov 12 11:33:07 WIB 2016 : FINE : TDBN -:- train -:- epoch: 100, energy: -8422.024723941136
+Sat Nov 12 11:33:08 WIB 2016 : FINE : TDBN -:- train -:- epoch: 102, energy: -9598.840471715997
+Sat Nov 12 11:33:09 WIB 2016 : FINE : TDBN -:- train -:- epoch: 104, energy: -9073.047951012031
+Sat Nov 12 11:33:10 WIB 2016 : FINE : TDBN -:- train -:- epoch: 106, energy: -8734.366721374256
+Sat Nov 12 11:33:10 WIB 2016 : FINE : TDBN -:- train -:- epoch: 108, energy: -8905.151450597343
+Sat Nov 12 11:33:11 WIB 2016 : FINE : TDBN -:- train -:- epoch: 110, energy: -8884.846734022913
+Sat Nov 12 11:33:12 WIB 2016 : FINE : TDBN -:- train -:- epoch: 112, energy: -8953.17657693891
+Sat Nov 12 11:33:13 WIB 2016 : FINE : TDBN -:- train -:- epoch: 114, energy: -9032.246179901003
+Sat Nov 12 11:33:13 WIB 2016 : FINE : TDBN -:- train -:- epoch: 116, energy: -9545.872739037308
+Sat Nov 12 11:33:14 WIB 2016 : FINE : TDBN -:- train -:- epoch: 118, energy: -9573.254700206899
+Sat Nov 12 11:33:15 WIB 2016 : FINE : TDBN -:- train -:- epoch: 120, energy: -9044.753102685367
+Sat Nov 12 11:33:16 WIB 2016 : FINE : TDBN -:- train -:- epoch: 122, energy: -9408.461558020885
+Sat Nov 12 11:33:16 WIB 2016 : FINE : TDBN -:- train -:- epoch: 124, energy: -9734.600049554838
+Sat Nov 12 11:33:17 WIB 2016 : FINE : TDBN -:- train -:- epoch: 126, energy: -9014.847231867478
+Sat Nov 12 11:33:18 WIB 2016 : FINE : TDBN -:- train -:- epoch: 128, energy: -8937.965473042668
+Sat Nov 12 11:33:18 WIB 2016 : FINE : TDBN -:- train -:- epoch: 130, energy: -9137.441176346249
+Sat Nov 12 11:33:19 WIB 2016 : FINE : TDBN -:- train -:- epoch: 132, energy: -8699.935480312202
+Sat Nov 12 11:33:20 WIB 2016 : FINE : TDBN -:- train -:- epoch: 134, energy: -9794.047129524399
+Sat Nov 12 11:33:21 WIB 2016 : FINE : TDBN -:- train -:- epoch: 136, energy: -8728.644803266901
+Sat Nov 12 11:33:21 WIB 2016 : FINE : TDBN -:- train -:- epoch: 138, energy: -9491.403663178502
+Sat Nov 12 11:33:22 WIB 2016 : FINE : TDBN -:- train -:- epoch: 140, energy: -9338.815349416738
+Sat Nov 12 11:33:23 WIB 2016 : FINE : TDBN -:- train -:- epoch: 142, energy: -9200.854049170146
+Sat Nov 12 11:33:23 WIB 2016 : FINE : TDBN -:- train -:- epoch: 144, energy: -9043.215247935817
+Sat Nov 12 11:33:24 WIB 2016 : FINE : TDBN -:- train -:- epoch: 146, energy: -8349.277804294608
+Sat Nov 12 11:33:25 WIB 2016 : FINE : TDBN -:- train -:- epoch: 148, energy: -8872.740372792548
+Sat Nov 12 11:33:26 WIB 2016 : FINE : TDBN -:- train -:- epoch: 150, energy: -8739.070590122581
+Sat Nov 12 11:33:27 WIB 2016 : FINE : TDBN -:- train -:- epoch: 152, energy: -8786.019078412857
+Sat Nov 12 11:33:27 WIB 2016 : FINE : TDBN -:- train -:- epoch: 154, energy: -9517.618725115763
+Sat Nov 12 11:33:28 WIB 2016 : FINE : TDBN -:- train -:- epoch: 156, energy: -9105.656588590577
+Sat Nov 12 11:33:29 WIB 2016 : FINE : TDBN -:- train -:- epoch: 158, energy: -8455.944209405745
+Sat Nov 12 11:33:30 WIB 2016 : FINE : TDBN -:- train -:- epoch: 160, energy: -9092.16026105138
+Sat Nov 12 11:33:30 WIB 2016 : FINE : TDBN -:- train -:- epoch: 162, energy: -8687.633044952332
+Sat Nov 12 11:33:31 WIB 2016 : FINE : TDBN -:- train -:- epoch: 164, energy: -9385.101172167766
+Sat Nov 12 11:33:32 WIB 2016 : FINE : TDBN -:- train -:- epoch: 166, energy: -8953.092751973887
+Sat Nov 12 11:33:32 WIB 2016 : FINE : TDBN -:- train -:- epoch: 168, energy: -8176.309293869505
+Sat Nov 12 11:33:33 WIB 2016 : FINE : TDBN -:- train -:- epoch: 170, energy: -8934.606593675284
+Sat Nov 12 11:33:34 WIB 2016 : FINE : TDBN -:- train -:- epoch: 172, energy: -8766.584359987814
+Sat Nov 12 11:33:35 WIB 2016 : FINE : TDBN -:- train -:- epoch: 174, energy: -9276.850996056733
+Sat Nov 12 11:33:35 WIB 2016 : FINE : TDBN -:- train -:- epoch: 176, energy: -9082.216295393844
+Sat Nov 12 11:33:36 WIB 2016 : FINE : TDBN -:- train -:- epoch: 178, energy: -8452.074442236742
+Sat Nov 12 11:33:37 WIB 2016 : FINE : TDBN -:- train -:- epoch: 180, energy: -8440.808205337178
+Sat Nov 12 11:33:38 WIB 2016 : FINE : TDBN -:- train -:- epoch: 182, energy: -9017.269305656542
+Sat Nov 12 11:33:38 WIB 2016 : FINE : TDBN -:- train -:- epoch: 184, energy: -9114.173514904402
+Sat Nov 12 11:33:39 WIB 2016 : FINE : TDBN -:- train -:- epoch: 186, energy: -8364.458287107671
+Sat Nov 12 11:33:40 WIB 2016 : FINE : TDBN -:- train -:- epoch: 188, energy: -8729.24207924303
+Sat Nov 12 11:33:41 WIB 2016 : FINE : TDBN -:- train -:- epoch: 190, energy: -8328.33878161548
+Sat Nov 12 11:33:41 WIB 2016 : FINE : TDBN -:- train -:- epoch: 192, energy: -8731.763140742098
+Sat Nov 12 11:33:42 WIB 2016 : FINE : TDBN -:- train -:- epoch: 194, energy: -9499.141562954877
+Sat Nov 12 11:33:43 WIB 2016 : FINE : TDBN -:- train -:- epoch: 196, energy: -8772.643022417316
+Sat Nov 12 11:33:44 WIB 2016 : FINE : TDBN -:- train -:- epoch: 198, energy: -9330.487592533475
+Sat Nov 12 11:33:44 WIB 2016 : FINE : TDBN -:- train -:- epoch: 200, energy: -9329.37227290527
+Sat Nov 12 11:33:45 WIB 2016 : FINE : TDBN -:- train -:- epoch: 202, energy: -9290.54566915803
+Sat Nov 12 11:33:46 WIB 2016 : FINE : TDBN -:- train -:- epoch: 204, energy: -9017.678871996102
+Sat Nov 12 11:33:46 WIB 2016 : FINE : TDBN -:- train -:- epoch: 206, energy: -8575.795639465185
+Sat Nov 12 11:33:47 WIB 2016 : FINE : TDBN -:- train -:- epoch: 208, energy: -8682.444138698753
+Sat Nov 12 11:33:48 WIB 2016 : FINE : TDBN -:- train -:- epoch: 210, energy: -9296.318192344472
+Sat Nov 12 11:33:49 WIB 2016 : FINE : TDBN -:- train -:- epoch: 212, energy: -9030.277730516591
+Sat Nov 12 11:33:50 WIB 2016 : FINE : TDBN -:- train -:- epoch: 214, energy: -9079.00756237487
+Sat Nov 12 11:33:50 WIB 2016 : FINE : TDBN -:- train -:- epoch: 216, energy: -9341.934000135107
+Sat Nov 12 11:33:51 WIB 2016 : FINE : TDBN -:- train -:- epoch: 218, energy: -9304.176090980147
+Sat Nov 12 11:33:52 WIB 2016 : FINE : TDBN -:- train -:- epoch: 220, energy: -9376.119931052532
+Sat Nov 12 11:33:53 WIB 2016 : FINE : TDBN -:- train -:- epoch: 222, energy: -8845.961130334357
+Sat Nov 12 11:33:53 WIB 2016 : FINE : TDBN -:- train -:- epoch: 224, energy: -8890.849751249567
+Sat Nov 12 11:33:54 WIB 2016 : FINE : TDBN -:- train -:- epoch: 226, energy: -9714.610375192773
+Sat Nov 12 11:33:55 WIB 2016 : FINE : TDBN -:- train -:- epoch: 228, energy: -8726.968924563715
+Sat Nov 12 11:33:56 WIB 2016 : FINE : TDBN -:- train -:- epoch: 230, energy: -9194.396059647277
+Sat Nov 12 11:33:56 WIB 2016 : FINE : TDBN -:- train -:- epoch: 232, energy: -9059.551877052814
+Sat Nov 12 11:33:57 WIB 2016 : FINE : TDBN -:- train -:- epoch: 234, energy: -8787.224145933926
+Sat Nov 12 11:33:58 WIB 2016 : FINE : TDBN -:- train -:- epoch: 236, energy: -7953.036183766704
+Sat Nov 12 11:33:59 WIB 2016 : FINE : TDBN -:- train -:- epoch: 238, energy: -8950.00416251423
+Sat Nov 12 11:33:59 WIB 2016 : FINE : TDBN -:- train -:- epoch: 240, energy: -8836.634840022896
+Sat Nov 12 11:34:00 WIB 2016 : FINE : TDBN -:- train -:- epoch: 242, energy: -9066.837259675272
+Sat Nov 12 11:34:01 WIB 2016 : FINE : TDBN -:- train -:- epoch: 244, energy: -8888.091298031542
+Sat Nov 12 11:34:02 WIB 2016 : FINE : TDBN -:- train -:- epoch: 246, energy: -9233.081649586187
+Sat Nov 12 11:34:02 WIB 2016 : FINE : TDBN -:- train -:- epoch: 248, energy: -9287.808753754456
+Sat Nov 12 11:34:05 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 0
+Sat Nov 12 11:34:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 1
+Sat Nov 12 11:34:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 2
+Sat Nov 12 11:34:13 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 3
+Sat Nov 12 11:34:15 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 4
+Sat Nov 12 11:34:17 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 5
+Sat Nov 12 11:34:19 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 6
+Sat Nov 12 11:34:21 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 7
+Sat Nov 12 11:34:23 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 8
+Sat Nov 12 11:34:25 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 9
+Sat Nov 12 11:34:27 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 10
+Sat Nov 12 11:34:29 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 11
+Sat Nov 12 11:34:31 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 12
+Sat Nov 12 11:34:33 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 13
+Sat Nov 12 11:34:35 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 14
+Sat Nov 12 11:34:37 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 15
+Sat Nov 12 11:34:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 16
+Sat Nov 12 11:34:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 17
+Sat Nov 12 11:34:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 18
+Sat Nov 12 11:34:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 19
+Sat Nov 12 11:34:47 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 20
+Sat Nov 12 11:34:49 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 21
+Sat Nov 12 11:34:50 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 22
+Sat Nov 12 11:34:52 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 23
+Sat Nov 12 11:34:54 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 24
+Sat Nov 12 11:34:56 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 25
+Sat Nov 12 11:34:58 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 26
+Sat Nov 12 11:35:00 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 27
+Sat Nov 12 11:35:02 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 28
+Sat Nov 12 11:35:03 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 29
+Sat Nov 12 11:35:05 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 30
+Sat Nov 12 11:35:07 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 31
+Sat Nov 12 11:35:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 32
+Sat Nov 12 11:35:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 33
+Sat Nov 12 11:35:13 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 34
+Sat Nov 12 11:35:15 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 35
+Sat Nov 12 11:35:17 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 36
+Sat Nov 12 11:35:19 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 37
+Sat Nov 12 11:35:21 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 38
+Sat Nov 12 11:35:23 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 39
+Sat Nov 12 11:35:24 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 40
+Sat Nov 12 11:35:26 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 41
+Sat Nov 12 11:35:28 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 42
+Sat Nov 12 11:35:30 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 43
+Sat Nov 12 11:35:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 44
+Sat Nov 12 11:35:34 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 45
+Sat Nov 12 11:35:36 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 46
+Sat Nov 12 11:35:37 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 47
+Sat Nov 12 11:35:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 48
+Sat Nov 12 11:35:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 49
+Sat Nov 12 11:35:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 50
+Sat Nov 12 11:35:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 51
+Sat Nov 12 11:35:47 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 52
+Sat Nov 12 11:35:49 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 53
+Sat Nov 12 11:35:51 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 54
+Sat Nov 12 11:35:53 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 55
+Sat Nov 12 11:35:55 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 56
+Sat Nov 12 11:35:56 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 57
+Sat Nov 12 11:35:58 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 58
+Sat Nov 12 11:36:00 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 59
+Sat Nov 12 11:36:02 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 60
+Sat Nov 12 11:36:04 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 61
+Sat Nov 12 11:36:06 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 62
+Sat Nov 12 11:36:07 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 63
+Sat Nov 12 11:36:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 64
+Sat Nov 12 11:36:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 65
+Sat Nov 12 11:36:13 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 66
+Sat Nov 12 11:36:15 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 67
+Sat Nov 12 11:36:17 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 68
+Sat Nov 12 11:36:18 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 69
+Sat Nov 12 11:36:20 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 70
+Sat Nov 12 11:36:22 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 71
+Sat Nov 12 11:36:24 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 72
+Sat Nov 12 11:36:26 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 73
+Sat Nov 12 11:36:28 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 74
+Sat Nov 12 11:36:30 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 75
+Sat Nov 12 11:36:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 76
+Sat Nov 12 11:36:33 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 77
+Sat Nov 12 11:36:35 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 78
+Sat Nov 12 11:36:37 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 79
+Sat Nov 12 11:36:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 80
+Sat Nov 12 11:36:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 81
+Sat Nov 12 11:36:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 82
+Sat Nov 12 11:36:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 83
+Sat Nov 12 11:36:47 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 84
+Sat Nov 12 11:36:49 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 85
+Sat Nov 12 11:36:51 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 86
+Sat Nov 12 11:36:53 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 87
+Sat Nov 12 11:36:55 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 88
+Sat Nov 12 11:36:57 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 89
+Sat Nov 12 11:36:59 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 90
+Sat Nov 12 11:37:01 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 91
+Sat Nov 12 11:37:03 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 92
+Sat Nov 12 11:37:04 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 93
+Sat Nov 12 11:37:06 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 94
+Sat Nov 12 11:37:08 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 95
+Sat Nov 12 11:37:10 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 96
+Sat Nov 12 11:37:12 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 97
+Sat Nov 12 11:37:14 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 98
+Sat Nov 12 11:37:16 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 99
+Sat Nov 12 11:37:18 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 100
+Sat Nov 12 11:37:19 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 101
+Sat Nov 12 11:37:21 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 102
+Sat Nov 12 11:37:23 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 103
+Sat Nov 12 11:37:25 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 104
+Sat Nov 12 11:37:27 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 105
+Sat Nov 12 11:37:29 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 106
+Sat Nov 12 11:37:31 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 107
+Sat Nov 12 11:37:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 108
+Sat Nov 12 11:37:34 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 109
+Sat Nov 12 11:37:36 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 110
+Sat Nov 12 11:37:38 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 111
+Sat Nov 12 11:37:40 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 112
+Sat Nov 12 11:37:42 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 113
+Sat Nov 12 11:37:44 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 114
+Sat Nov 12 11:37:46 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 115
+Sat Nov 12 11:37:48 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 116
+Sat Nov 12 11:37:50 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 117
+Sat Nov 12 11:37:52 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 118
+Sat Nov 12 11:37:53 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 119
+Sat Nov 12 11:37:55 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 120
+Sat Nov 12 11:37:57 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 121
+Sat Nov 12 11:37:59 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 122
+Sat Nov 12 11:38:01 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 123
+Sat Nov 12 11:38:03 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 124
+Sat Nov 12 11:38:05 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 125
+Sat Nov 12 11:38:06 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 126
+Sat Nov 12 11:38:08 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 127
+Sat Nov 12 11:38:10 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 128
+Sat Nov 12 11:38:12 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 129
+Sat Nov 12 11:38:14 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 130
+Sat Nov 12 11:38:16 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 131
+Sat Nov 12 11:38:18 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 132
+Sat Nov 12 11:38:20 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 133
+Sat Nov 12 11:38:22 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 134
+Sat Nov 12 11:38:23 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 135
+Sat Nov 12 11:38:25 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 136
+Sat Nov 12 11:38:27 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 137
+Sat Nov 12 11:38:29 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 138
+Sat Nov 12 11:38:31 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 139
+Sat Nov 12 11:38:33 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 140
+Sat Nov 12 11:38:35 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 141
+Sat Nov 12 11:38:37 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 142
+Sat Nov 12 11:38:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 143
+Sat Nov 12 11:38:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 144
+Sat Nov 12 11:38:42 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 145
+Sat Nov 12 11:38:44 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 146
+Sat Nov 12 11:38:46 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 147
+Sat Nov 12 11:38:48 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 148
+Sat Nov 12 11:38:50 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 149
+Sat Nov 12 11:38:52 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 150
+Sat Nov 12 11:38:54 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 151
+Sat Nov 12 11:38:56 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 152
+Sat Nov 12 11:38:58 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 153
+Sat Nov 12 11:39:00 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 154
+Sat Nov 12 11:39:02 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 155
+Sat Nov 12 11:39:04 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 156
+Sat Nov 12 11:39:05 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 157
+Sat Nov 12 11:39:07 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 158
+Sat Nov 12 11:39:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 159
+Sat Nov 12 11:39:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 160
+Sat Nov 12 11:39:13 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 161
+Sat Nov 12 11:39:15 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 162
+Sat Nov 12 11:39:16 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 163
+Sat Nov 12 11:39:18 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 164
+Sat Nov 12 11:39:19 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 165
+Sat Nov 12 11:39:20 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 166
+Sat Nov 12 11:39:22 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 167
+Sat Nov 12 11:39:23 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 168
+Sat Nov 12 11:39:24 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 169
+Sat Nov 12 11:39:25 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 170
+Sat Nov 12 11:39:27 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 171
+Sat Nov 12 11:39:28 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 172
+Sat Nov 12 11:39:30 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 173
+Sat Nov 12 11:39:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 174
+Sat Nov 12 11:39:34 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 175
+Sat Nov 12 11:39:36 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 176
+Sat Nov 12 11:39:38 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 177
+Sat Nov 12 11:39:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 178
+Sat Nov 12 11:39:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 179
+Sat Nov 12 11:39:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 180
+Sat Nov 12 11:39:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 181
+Sat Nov 12 11:39:47 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 182
+Sat Nov 12 11:39:49 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 183
+Sat Nov 12 11:39:51 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 184
+Sat Nov 12 11:39:52 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 185
+Sat Nov 12 11:39:54 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 186
+Sat Nov 12 11:39:56 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 187
+Sat Nov 12 11:39:58 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 188
+Sat Nov 12 11:40:00 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 189
+Sat Nov 12 11:40:02 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 190
+Sat Nov 12 11:40:04 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 191
+Sat Nov 12 11:40:06 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 192
+Sat Nov 12 11:40:08 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 193
+Sat Nov 12 11:40:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 194
+Sat Nov 12 11:40:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 195
+Sat Nov 12 11:40:13 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 196
+Sat Nov 12 11:40:15 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 197
+Sat Nov 12 11:40:17 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 198
+Sat Nov 12 11:40:19 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 199
+Sat Nov 12 11:40:20 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 200
+Sat Nov 12 11:40:22 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 201
+Sat Nov 12 11:40:24 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 202
+Sat Nov 12 11:40:26 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 203
+Sat Nov 12 11:40:28 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 204
+Sat Nov 12 11:40:30 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 205
+Sat Nov 12 11:40:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 206
+Sat Nov 12 11:40:34 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 207
+Sat Nov 12 11:40:36 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 208
+Sat Nov 12 11:40:38 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 209
+Sat Nov 12 11:40:40 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 210
+Sat Nov 12 11:40:42 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 211
+Sat Nov 12 11:40:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 212
+Sat Nov 12 11:40:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 213
+Sat Nov 12 11:40:47 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 214
+Sat Nov 12 11:40:49 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 215
+Sat Nov 12 11:40:51 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 216
+Sat Nov 12 11:40:53 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 217
+Sat Nov 12 11:40:55 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 218
+Sat Nov 12 11:40:57 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 219
+Sat Nov 12 11:40:58 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 220
+Sat Nov 12 11:41:00 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 221
+Sat Nov 12 11:41:02 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 222
+Sat Nov 12 11:41:04 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 223
+Sat Nov 12 11:41:05 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 224
+Sat Nov 12 11:41:07 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 225
+Sat Nov 12 11:41:09 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 226
+Sat Nov 12 11:41:11 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 227
+Sat Nov 12 11:41:12 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 228
+Sat Nov 12 11:41:14 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 229
+Sat Nov 12 11:41:16 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 230
+Sat Nov 12 11:41:18 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 231
+Sat Nov 12 11:41:20 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 232
+Sat Nov 12 11:41:22 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 233
+Sat Nov 12 11:41:24 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 234
+Sat Nov 12 11:41:26 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 235
+Sat Nov 12 11:41:28 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 236
+Sat Nov 12 11:41:29 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 237
+Sat Nov 12 11:41:31 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 238
+Sat Nov 12 11:41:32 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 239
+Sat Nov 12 11:41:34 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 240
+Sat Nov 12 11:41:35 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 241
+Sat Nov 12 11:41:37 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 242
+Sat Nov 12 11:41:39 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 243
+Sat Nov 12 11:41:41 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 244
+Sat Nov 12 11:41:43 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 245
+Sat Nov 12 11:41:45 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 246
+Sat Nov 12 11:41:46 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 247
+Sat Nov 12 11:41:48 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 248
+Sat Nov 12 11:41:50 WIB 2016 : FINE : TDBN -:- train2 -:- epoch 249
+Sat Nov 12 11:41:53 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 0
+Sat Nov 12 11:42:10 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 1
+Sat Nov 12 11:42:26 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 2
+Sat Nov 12 11:42:41 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 3
+Sat Nov 12 11:42:56 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 4
+Sat Nov 12 11:43:12 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 5
+Sat Nov 12 11:43:28 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 6
+Sat Nov 12 11:43:44 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 7
+Sat Nov 12 11:43:59 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 8
+Sat Nov 12 11:44:16 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 9
+Sat Nov 12 11:44:32 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 10
+Sat Nov 12 11:44:48 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 11
+Sat Nov 12 11:45:03 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 12
+Sat Nov 12 11:45:19 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 13
+Sat Nov 12 11:45:40 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 14
+Sat Nov 12 11:45:57 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 15
+Sat Nov 12 11:46:13 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 16
+Sat Nov 12 11:46:29 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 17
+Sat Nov 12 11:46:45 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 18
+Sat Nov 12 11:47:01 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 19
+Sat Nov 12 11:47:16 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 20
+Sat Nov 12 11:47:32 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 21
+Sat Nov 12 11:47:48 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 22
+Sat Nov 12 11:48:04 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 23
+Sat Nov 12 11:48:19 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 24
+Sat Nov 12 11:48:35 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 25
+Sat Nov 12 11:48:50 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 26
+Sat Nov 12 11:49:06 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 27
+Sat Nov 12 11:49:22 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 28
+Sat Nov 12 11:49:38 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 29
+Sat Nov 12 11:49:53 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 30
+Sat Nov 12 11:50:09 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 31
+Sat Nov 12 11:50:25 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 32
+Sat Nov 12 11:50:41 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 33
+Sat Nov 12 11:50:57 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 34
+Sat Nov 12 11:51:13 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 35
+Sat Nov 12 11:51:29 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 36
+Sat Nov 12 11:51:45 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 37
+Sat Nov 12 11:51:59 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 38
+Sat Nov 12 11:52:10 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 39
+Sat Nov 12 11:52:23 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 40
+Sat Nov 12 11:52:39 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 41
+Sat Nov 12 11:52:54 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 42
+Sat Nov 12 11:53:11 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 43
+Sat Nov 12 11:53:26 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 44
+Sat Nov 12 11:53:42 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 45
+Sat Nov 12 11:53:58 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 46
+Sat Nov 12 11:54:14 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 47
+Sat Nov 12 11:54:30 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 48
+Sat Nov 12 11:54:48 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 49
+Sat Nov 12 11:55:04 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 50
+Sat Nov 12 11:55:20 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 51
+Sat Nov 12 11:55:35 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 52
+Sat Nov 12 11:55:51 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 53
+Sat Nov 12 11:56:07 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 54
+Sat Nov 12 11:56:22 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 55
+Sat Nov 12 11:56:38 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 56
+Sat Nov 12 11:56:53 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 57
+Sat Nov 12 11:57:08 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 58
+Sat Nov 12 11:57:24 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 59
+Sat Nov 12 11:57:39 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 60
+Sat Nov 12 11:57:55 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 61
+Sat Nov 12 11:58:10 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 62
+Sat Nov 12 11:58:26 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 63
+Sat Nov 12 11:58:42 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 64
+Sat Nov 12 11:58:58 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 65
+Sat Nov 12 11:59:13 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 66
+Sat Nov 12 11:59:30 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 67
+Sat Nov 12 11:59:45 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 68
+Sat Nov 12 12:00:01 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 69
+Sat Nov 12 12:00:17 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 70
+Sat Nov 12 12:00:33 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 71
+Sat Nov 12 12:00:48 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 72
+Sat Nov 12 12:01:04 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 73
+Sat Nov 12 12:01:20 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 74
+Sat Nov 12 12:01:36 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 75
+Sat Nov 12 12:01:52 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 76
+Sat Nov 12 12:02:08 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 77
+Sat Nov 12 12:02:26 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 78
+Sat Nov 12 12:02:42 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 79
+Sat Nov 12 12:02:57 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 80
+Sat Nov 12 12:03:13 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 81
+Sat Nov 12 12:03:28 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 82
+Sat Nov 12 12:03:48 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 83
+Sat Nov 12 12:04:04 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 84
+Sat Nov 12 12:04:20 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 85
+Sat Nov 12 12:04:36 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 86
+Sat Nov 12 12:04:52 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 87
+Sat Nov 12 12:05:08 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 88
+Sat Nov 12 12:05:25 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 89
+Sat Nov 12 12:05:43 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 90
+Sat Nov 12 12:05:59 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 91
+Sat Nov 12 12:06:15 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 92
+Sat Nov 12 12:06:31 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 93
+Sat Nov 12 12:06:46 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 94
+Sat Nov 12 12:07:03 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 95
+Sat Nov 12 12:07:18 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 96
+Sat Nov 12 12:07:34 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 97
+Sat Nov 12 12:07:50 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 98
+Sat Nov 12 12:08:06 WIB 2016 : FINE : TDBN -:- train3 -:- epoch 99

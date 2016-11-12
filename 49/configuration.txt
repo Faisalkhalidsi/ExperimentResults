@@ -1,0 +1,8 @@
+            "data/49_04.amc",
+            "data/49_04.amc",
+            "data/49_04.amc"
+
+asfBase = this.getClass().getResource("data/49.asf");
+amcBase = this.getClass().getResource("data/49_04.amc");
+
+regularization = false

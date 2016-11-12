@@ -1,0 +1,15 @@
+            // cuma lari loncat jungkir balik
+            "data/49_04.amc",
+            "data/49_04.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc",
+            "data/49_08.amc"
+
+            asfBase = this.getClass().getResource("data/49.asf");
+            amcBase = this.getClass().getResource("data/49_04.amc");

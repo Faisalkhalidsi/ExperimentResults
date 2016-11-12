@@ -1,0 +1,20 @@
+Sat Nov 12 11:32:24 WIB 2016 : FINE : demo -:- setup -:- Start the program!.... is net null?: true
+Sat Nov 12 11:32:24 WIB 2016 : FINE : demo -:- setup -:- amcBase: file:/home/sourcemycode/Documents/Tesis/nCode/tdbnDemo/out/production/tdbnDemo/data/35_17.amc
+Sat Nov 12 11:32:25 WIB 2016 : FINE : demo -:- setup -:- rbmTrainEpoch: 250, crbmTrainEpoch: 100
+Sat Nov 12 11:32:25 WIB 2016 : FINE : demo -:- setup -:- testMode: false
+Sat Nov 12 12:08:22 WIB 2016 : FINE : demo -:- setup -:- Start the program!.... is net null?: false
+Sat Nov 12 12:08:22 WIB 2016 : FINE : demo -:- setup -:- amcBase: file:/home/sourcemycode/Documents/Tesis/nCode/tdbnDemo/out/production/tdbnDemo/data/35_17.amc
+Sat Nov 12 12:08:22 WIB 2016 : FINE : demo -:- setup -:- rbmTrainEpoch: 250, crbmTrainEpoch: 100
+Sat Nov 12 12:08:22 WIB 2016 : FINE : demo -:- setup -:- testMode: false
+Sat Nov 12 12:08:55 WIB 2016 : INFO : demo -:- keyPressed -:- p dipencet
+Sat Nov 12 12:09:46 WIB 2016 : INFO : demo -:- keyPressed -:- r dipencet
+Sat Nov 12 12:09:48 WIB 2016 : INFO : demo -:- keyPressed -:- w dipencet
+Sat Nov 12 12:09:54 WIB 2016 : INFO : demo -:- keyPressed -:- c dipendet
+Sat Nov 12 12:09:55 WIB 2016 : INFO : demo -:- keyPressed -:- r dipencet
+Sat Nov 12 12:09:56 WIB 2016 : INFO : demo -:- keyPressed -:- w dipencet
+Sat Nov 12 12:09:57 WIB 2016 : INFO : demo -:- keyPressed -:- w dipencet
+Sat Nov 12 12:09:58 WIB 2016 : INFO : demo -:- keyPressed -:- r dipencet
+Sat Nov 12 12:09:59 WIB 2016 : INFO : demo -:- keyPressed -:- r dipencet
+Sat Nov 12 12:10:00 WIB 2016 : INFO : demo -:- keyPressed -:- w dipencet
+Sat Nov 12 12:10:02 WIB 2016 : INFO : demo -:- keyPressed -:- s dipendet
+Sat Nov 12 12:10:02 WIB 2016 : INFO : demo -:- keyPressed -:- p dipencet

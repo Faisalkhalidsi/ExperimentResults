@@ -1,0 +1,10 @@
+            "data/35_17.amc",
+
+            //combine
+            "data/35_17.amc",
+            "data/126_11.amc",
+            "data/126_11.amc",
+            "data/126_11.amc
+
+            asfBase = this.getClass().getResource("data/49.asf");
+            amcBase = this.getClass().getResource("data/35_17.amc");
